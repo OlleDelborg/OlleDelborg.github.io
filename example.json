@@ -1,0 +1,99 @@
+{
+    "title": {
+        "media": {
+          "url": "",
+          "caption": " <a target=\"_blank\" href=''>credits</a>",
+          "credit": ""
+        },
+        "text": {
+          "headline": "My Journey so far",
+          "text": "<p>From Lund to Uppsala and now Stockholm/Södertälje.</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2018",
+          "month":"8"
+        },
+        "text": {
+          "headline": "Started studying Information and Computer Engineering.",
+          "text": "<p>At Uppsala University. </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"6"
+        },
+        "text": {
+          "headline": "First time as a Teacher Assistant",
+          "text": "Starting as a Teacher Assistant on a summer course in programming and IT engineering. During my studies I have had the opportunity to continue on as a Teacher Assistant for a variety of courses."
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"3"
+        },
+        "text": {
+          "headline": "Bachelor Thesis @STUNS",
+          "text": "Starting my Bachelors Thesis working on the web service 'Energigemenskaper'. "
+        }
+      },
+      {
+        "media": {
+          "url": "https://energigemenskaper.se/images/f%C3%B6rnybar-energi-fdfc2b446d28e9a4015c301976f2973e.jpg?vsn=d",
+          "caption": "Energigemenskaper"
+        },
+        "start_date": {
+          "year": "2021",
+          "month":"7"
+        },
+        "text": {
+          "headline": "Fullstack Developer @Energigemenskaper",
+          "text": "The project was a part of an EU financed via STUNS, in order to shed light on innovative energy solution."
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2023",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Master Thesis @Scania",
+          "text": "During the spring semester I completed my Master Thesis in efficient route planning for electric trucks."
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Scania_Logo.svg/800px-Scania_Logo.svg.png",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2023",
+          "month":"8"
+        },
+        "text": {
+          "headline": "Full Time employed @Scania",
+          "text": "Working on the predevelopment department for electric vehicles. In part continuing the work of my Master Thesis, as well as working with embedded systems."
+        }
+      }
+    ]
+}
