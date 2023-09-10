@@ -4,8 +4,6 @@ import time
 from streamlit_timeline import timeline
 
 
-#with open( "style.css" ) as css:
-#        st.markdown( f'<style>{css.read()}</style>' , unsafe_allow_html= True)
 
 #--------- IMAGES --------
 me = Image.open('Images/avatar.png')
@@ -71,7 +69,8 @@ with tab2:
                 unsafe_allow_html=True)
             st.image(eg)
         with st.expander("Other"):
-            st.write("During my studies I worked as a teachers assistant for a couple of programming courses, giving me a great opportunity to develop skills in leadership and teaching!")
+            st.write("During my studies I worked as a teachers assistant for a couple of programming courses!")
+            st.markdown("The work as a TA as well as being a Scrum Master at Scania, has helped med developing skills in leadership.")
 with tab3:
     st.markdown("**During my studies and work I have been forunate to learn and work with a wide set of programming languages, tools and frameworks.**")
     st.markdown("As a Data Scientist I'm very comfortable working with Matlab, **Python** and Python libraries such as **pandas**, **TensorFlow**, **Keras** and **numpy**. Further, using the cloud platform **OpenStack** I have developed skills using frameworks such as **Docker**, **Kubernetes**, Apache **Spark** and **Kafka** as well as working with **micro services**, and for automation and orchestration **Ansible** and **Docker Swarm**, to name a few.")
