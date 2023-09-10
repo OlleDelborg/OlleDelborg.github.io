@@ -73,6 +73,20 @@
           "caption": ""
         },
         "start_date": {
+          "year": "2021",
+          "month":"9"
+        },
+        "text": {
+          "headline": "The birth of a Data Scientist",
+          "text": "Started my major in Data Science. Here I have studied courses with subjects such as Machine Learning, Data Engineering, Reinforcement Learning and Optimization."
+        }
+      },
+      {
+        "media": {
+          "url": "https://github.com/OlleDelborg/OlleDelborg.github.io/blob/main/Images/masterthesis.png?raw=true",
+          "caption": ""
+        },
+        "start_date": {
           "year": "2023",
           "month":"1"
         },
@@ -91,8 +105,8 @@
           "month":"8"
         },
         "text": {
-          "headline": "Full Time employed @Scania",
-          "text": "Working on the predevelopment department for electric vehicles. In part continuing the work of my Master Thesis, as well as working with embedded systems."
+          "headline": "Finally an Engineer!",
+          "text": "Working on the predevelopment department for electric vehicles at Scania. In part continuing the work of my Master Thesis, as well as working with embedded systems."
         }
       }
     ]

@@ -42,8 +42,8 @@ st.markdown("<h1 style='text-align: center; color: #091747; font-family: Playfai
 tab1, tab2, tab3 = st.tabs(["About Me", "Work", "Skills"])
 
 with tab1:
-    st.markdown("**Hello! :wave:  I am a Data Scientist currently working with embedded systems and routing optimization for electric trucks at the pre-development section of Scania.**")
-    st.markdown("I am passionate about sustainability, electrification and *everything* data.")
+    st.markdown("**Hello! :wave:  I am a Data Scientist currently working with routing optimization and embedded systems for electric trucks at the pre-development section of Scania.**")
+    st.markdown("I am passionate about sustainability, electrification and *everything* data. Please go ahead and scroll through my journey so far below. ")
     with open('example.json', "r") as f:
         data = f.read()
     timeline = timeline(data)
