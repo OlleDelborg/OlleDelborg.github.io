@@ -5,10 +5,10 @@ from streamlit_timeline import timeline
 
 
 #--------- IMAGES --------
-me = Image.open('Images/avatar.png')
-ch = Image.open('/Images/contraction.jpg')
-vm = Image.open('/Images/vehicle-model.jpg')
-eg = Image.open('/Images/eg.jpg')
+me = Image.open('avatar.png')
+ch = Image.open('contraction.jpg')
+vm = Image.open('vehicle-model.jpg')
+eg = Image.open('eg.jpg')
 
 # -------- LINKS ---------
 THESIS_STRING = "https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-505219"
