@@ -5,7 +5,7 @@ from streamlit_timeline import timeline
 
 
 #--------- IMAGES --------
-me = Image.open('/Images/avatar.png')
+me = Image.open('Images/avatar.png')
 ch = Image.open('/Images/contraction.jpg')
 vm = Image.open('/Images/vehicle-model.jpg')
 eg = Image.open('/Images/eg.jpg')
